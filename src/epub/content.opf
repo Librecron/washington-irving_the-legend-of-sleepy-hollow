@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/washington-irving/the-legend-of-sleepy-hollow</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-03-26T19:46:59Z</dc:date>
+		<meta property="dcterms:modified">2019-03-26T19:46:59Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -34,16 +34,16 @@
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/41</meta>
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/41</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">The Legend of Sleepy Hollow is one of Washington Irving's most well known stories.</dc:description>
+		<dc:description id="description">The Legend of Sleepy Hollow is one of Washington Irvings most well known stories.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Legend of Sleepy Hollow is one of the most enduring short stories in American history. Despite being released 200 years ago, its popularity has hardly waned. It has been the source of several films and television shows, and remains a Halloween classic.&lt;/p&gt;
+			&lt;p&gt;The Legend of Sleepy Hollow is one of the most enduring short stories in American history. Despite being released 200 years ago, its popularity has hardly waned. It has been the source of several films and television shows, and remains a Halloween classic.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/41</dc:source>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">12265</meta>
+		<meta property="se:reading-ease.flesch">52.57</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Legend_of_Sleepy_Hollow</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/washington-irving_the-legend-of-sleepy-hollow</meta>
 		<dc:creator id="author">Washington Irving</dc:creator>
